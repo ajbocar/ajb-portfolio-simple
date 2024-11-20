@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { themeChange } from "theme-change";
 
 const App = () => {
-  
+
   useEffect(() => {
     themeChange(false);
   }, []);
@@ -270,7 +270,7 @@ const App = () => {
 
       {/* Footer */}
       <footer className="bg-base-900 py-4 text-center">
-        <p>&copy; 2024 AJBOCAR.ONLINE. All rights reserved.</p>
+        <p>Like this page? <a className="link" href="https://www.buymeacoffee.com/ajbocar">Buy me a coffee!</a></p>
       </footer>
     </div>
   );
