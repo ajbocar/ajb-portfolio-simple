@@ -115,27 +115,6 @@ const App = () => {
         </div>
       </section>
 
-      {/* Hero Section 
-      <section
-        id="hero"
-        className="bg-cover bg-center h-96 text-center flex justify-center items-center relative"
-        style={{
-          backgroundImage:
-            "url('https://source.unsplash.com/random/1920x1080')",
-        }}
-      >
-        <div className="absolute inset-0 bg-black opacity-50"></div>
-        <div className="relative z-10">
-          <h1 className="text-4xl md:text-6xl font-bold">
-            Welcome to My Portfolio
-          </h1>
-          <p className="mt-4 text-lg">
-            I’m a web developer passionate about creating beautiful and
-            functional websites.
-          </p>
-        </div>
-      </section> */}
-
       {/* About Section */}
       <section id="about" className="py-16 bg-base-100">
         <div className="container mx-auto text-center">
@@ -243,13 +222,13 @@ const App = () => {
           </div>
           <div className="space-x-4 space-y-4">
             <a
-              href="https://api.whatsapp.com/send?phone=639178374344"
+              href="https://api.whatsapp.com/send?phone=639937959007"
               className="btn btn-outline btn-light"
             >
               WhatsApp
             </a>
             <a
-              href="viber://chat?number=%2639178374344"
+              href="viber://chat?number=%2639937959007"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-outline btn-light"
