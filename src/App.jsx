@@ -101,7 +101,7 @@ const App = () => {
           <div className="max-w-2xl">
             <div className="avatar">
               <div className="w-24 rounded-full">
-                <img src={"./img/lorelei-1732095071306.png"} />
+                <img src="https://api.dicebear.com/9.x/lorelei-neutral/svg?seed=Oliver" alt="avatar" />
               </div>
             </div>
             <h3 className="mb-5 text-2xl md:text-3xl">Hi, I'm AJ</h3>
